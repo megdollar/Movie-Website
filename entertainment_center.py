@@ -29,7 +29,7 @@ bridesmaids = media.Movie("Bridesmaids",
 good_time = media.Movie("For a Good Time Call",
                         "Former college frenemies Lauren and Katie move into a fabulous Gramercy Park apartment, and in order to make ends meet, the unlikely pair start a phone sex line together.",
                         "http://ia.media-imdb.com/images/M/MV5BMjI0MTMyNTQ5NV5BMl5BanBnXkFtZTcwNTgxOTM5Nw@@._V1_SX640_SY720_.jpg",
-                        "https://www.youtube.com/watch?v=qigVz5l8v9Q")
+                        "https://www.youtube.com/watch?v=AYgM4oZfQ7g")
 
 hector = media.Movie("Hector and the Search for Happiness",
                      "A psychiatrist searches the globe to find the secret of happiness.",
