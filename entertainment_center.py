@@ -8,12 +8,6 @@ atonement = media.Movie("Atonement",
                         "https://www.youtube.com/watch?v=Dznc_LJIJ4c&oref=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDznc_LJIJ4c&has_verified=1")
 
 
-harry_potter = media.Movie("Harry Potter and the Order of the Pheonix",
-                           "With their warning about Lord Voldemort's return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.",
-                            "http://www.wichitaorpheum.com/wp-content/uploads/2013/05/Harry-Potter-Order-of-the-Phoenix.jpg",
-                           "https://www.youtube.com/watch?v=E9ZXOdGdTFI")
-
-
 ice_age = media.Movie("Ice Age",
                       "Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth find a lost human infant, and they try to return him to his tribe.",
                       "http://babystreaming.com/wp-content/uploads/2014/01/Ice-Age.jpg",
