@@ -6,22 +6,19 @@ atonement = media.Movie("Atonement",
                         "Fledgling writer Briony Tallis, as a 13-year-old, irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit. Based on the British romance novel by Ian McEwan.",
                         "http://images.fanpop.com/images/image_uploads/Atonement-Poster-atonement-267165_1240_930.jpg",
                         "https://www.youtube.com/watch?v=Dznc_LJIJ4c&oref=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDznc_LJIJ4c&has_verified=1")
-#print (atonement.storyline)
-#atonement.show_trailer()
+
 
 harry_potter = media.Movie("Harry Potter and the Order of the Pheonix",
                            "With their warning about Lord Voldemort's return scoffed at, Harry and Dumbledore are targeted by the Wizard authorities as an authoritarian bureaucrat slowly seizes power at Hogwarts.",
                             "http://www.wichitaorpheum.com/wp-content/uploads/2013/05/Harry-Potter-Order-of-the-Phoenix.jpg",
                            "https://www.youtube.com/watch?v=E9ZXOdGdTFI")
-#print (harry_potter.storyline)
-#harry_potter.show_trailer()
+
 
 ice_age = media.Movie("Ice Age",
                       "Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth find a lost human infant, and they try to return him to his tribe.",
                       "http://babystreaming.com/wp-content/uploads/2014/01/Ice-Age.jpg",
                       "https://www.youtube.com/watch?v=VsvaFxkXrbg")
-#print (ice_age.storyline)
-#ice_age.show_trailer()
+
 
 skeleton_twins = media.Movie("The Skeleton Twins",
                              "Having both coincidentally cheated death on the same day, estranged twins reunite with the possibility of mending their relationship.",
@@ -49,5 +46,4 @@ hector = media.Movie("Hector and the Search for Happiness",
 movies = [atonement, harry_potter, ice_age, skeleton_twins, bridesmaids, good_time, hector]
 fresh_tomatoes.open_movies_page(movies)
 
-#print (media.Movie.VALID_RATINGS)
 print (media.Movie.__doc__)
