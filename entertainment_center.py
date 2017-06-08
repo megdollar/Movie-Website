@@ -37,7 +37,7 @@ hector = media.Movie("Hector and the Search for Happiness",
                      "https://www.youtube.com/watch?v=iWFVAIbIkS4")
 
 
-movies = [atonement, harry_potter, ice_age, skeleton_twins, bridesmaids, good_time, hector]
+movies = [atonement, ice_age, skeleton_twins, bridesmaids, good_time, hector]
 fresh_tomatoes.open_movies_page(movies)
 
 print (media.Movie.__doc__)
